@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🌸 Hey there, I'm [Your Name]! 👋  
 
-<!--
-**nagbisafae/nagbisafae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ 4th-year Computer Science student | Passionate about AI & Web Development ✨  
 
-Here are some ideas to get you started:
+## 💡 About Me  
+- 🎓 Studying Computer Science & AI  
+- 💻 Love coding, problem-solving & building cool projects  
+- 🌱 Always learning new tech & improving my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+- **Languages:** Python, Java, JavaScript  
+- **Web Dev:** React, Tailwind CSS, HTML, CSS  
+- **Backend:** Spring Boot, Node.js  
+- **Databases:** MySQL, PostgreSQL  
+
+## 🌼 Let's Connect!  
+[![LinkedIn](www.linkedin.com/in/safae-nagbi)](your-linkedin-url)  
+
+✨ Always happy to collaborate & learn together! 🚀  
