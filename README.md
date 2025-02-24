@@ -1,4 +1,4 @@
-# 🌸 Hey there, I'm [Your Name]! 👋  
+# 🌸 Hey there, I'm Safae Nagbi! 👋  
 
 ✨ 4th-year Computer Science student | Passionate about AI & Web Development ✨  
 
@@ -8,10 +8,10 @@
 - 🌱 Always learning new tech & improving my skills  
 
 ## 🚀 Tech Stack  
-- **Languages:** Python, Java, JavaScript  
-- **Web Dev:** React, Tailwind CSS, HTML, CSS  
-- **Backend:** Spring Boot, Node.js  
-- **Databases:** MySQL, PostgreSQL  
+- **Languages:** C, Python, Java, JavaScript, R  
+- **Web Dev:** React, Angular, Tailwind CSS, HTML, CSS  
+- **Backend:** Spring Boot, Laravel  
+- **Databases:** MySQL, NoSQL  
 
 ## 🌼 Let's Connect!  
 [![LinkedIn](www.linkedin.com/in/safae-nagbi)](your-linkedin-url)  
