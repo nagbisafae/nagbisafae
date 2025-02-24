@@ -14,6 +14,5 @@
 - **Databases:** MySQL, NoSQL  
 
 ## 🌼 Let's Connect!  
-[![LinkedIn](www.linkedin.com/in/safae-nagbi)](your-linkedin-url)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/safae-nagbi/)  
 ✨ Always happy to collaborate & learn together! 🚀  
